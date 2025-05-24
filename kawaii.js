@@ -1,1 +1,0 @@
-console.log("Kawaii Coffee Experience loaded!");
